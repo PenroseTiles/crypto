@@ -1,7 +1,7 @@
 # Yao's Garbled Circuits
 
 ### Introduction
-The fundamental problem in secure multiparty computation is to compute a function $F(x_1,x_2,\ldots)$ where the input $x_i$ is known only to party $P_i$, in a way that no party should learn anything that they couldn't have deduced from their own input and the value of $F(x_1, x_2, \ldots)$.
+The fundamental problem in secure multiparty computation is to compute a function $F(x_1,x_2,\ldots)$ where the input $ x_i $ is known only to party $P_i$, in a way that no party should learn anything that they couldn't have deduced from their own input and the value of $ F(x_1, x_2, \ldots) $.
 For now, we assume there are only two parties $P_1, P_2$.
 
 1.  Assume both $P_1$ and $P_2$ mutually agree upon a circuit $C$ that represents $F$.
