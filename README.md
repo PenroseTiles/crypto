@@ -1,2 +1,2 @@
 # crypto
-Crypto Software and Notes
+Crypto Notes
